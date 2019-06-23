@@ -1,0 +1,10 @@
+{
+  "name": "maranqz/MEGAcmd-wrapper-php",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "MegaSDK\\": "src/"
+    }
+  }
+}
